@@ -1,10 +1,18 @@
+---
+title: 2018亚历山大·汉密顿奖 | 斯坦利·德鲁肯米勒与大使尼基·黑利
+source: https://www.youtube.com/watch?v=IwmSxcR8RTI
+date: 2018-05-22
+language: zh
+tags: [Druckenmiller, investment, interview]
+---
+
 # 2018亚历山大·汉密顿奖 | 斯坦利·德鲁肯米勒与大使尼基·黑利
 
 **来源：** [https://www.youtube.com/watch?v=IwmSxcR8RTI](https://www.youtube.com/watch?v=IwmSxcR8RTI)
 
 ---
 
-## 译文
+## 访谈记录
 
 **主持人：** 欢迎来到第18届年度亚历山大·汉密顿奖晚宴。今晚节目开始之前，我非常荣幸地邀请曼哈顿研究所主席保罗·辛格走上讲台。
 

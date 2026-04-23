@@ -1,3 +1,11 @@
+---
+title: A Conversation With Stanley Druckenmiller - Full Show
+source: https://www.youtube.com/watch?v=7njzXBzYnNI
+date: 2019-05-13
+language: en
+tags: [Druckenmiller, investment, interview]
+---
+
 # A Conversation With Stanley Druckenmiller - Full Show
 
 **Source:** [https://www.youtube.com/watch?v=7njzXBzYnNI](https://www.youtube.com/watch?v=7njzXBzYnNI)

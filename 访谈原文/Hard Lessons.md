@@ -1,7 +1,17 @@
+---
+title: Stan Druckenmiller: Invest, Then Investigate
+source: https://www.youtube.com/watch?v=z_pk4eBDaLA
+date: 2026-01-30
+language: en
+tags: [Druckenmiller, investment, interview]
+---
+
 # Stan Druckenmiller: Invest, Then Investigate
 
 **Source: **[https://www.youtube.com/watch?v=z_pk4eBDaLA](https://www.youtube.com/watch?v=z_pk4eBDaLA)
 **Date: **2026-01-30
+
+## Transcript
 
 **Stan Druckenmiller**: I think contrarianism is overrated. I do like it when I have extreme conviction and no one else believes it. It gives me even more conviction.
 
