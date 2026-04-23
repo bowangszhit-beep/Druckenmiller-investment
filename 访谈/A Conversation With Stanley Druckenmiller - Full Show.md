@@ -1,11 +1,13 @@
 ---
 title: 与斯坦利·德鲁肯米勒的对话——完整节目
 source: https://www.youtube.com/watch?v=7njzXBzYnNI
-date: 2019-05-13
+date: 2020-01-03
 language: zh
-tags: [Druckenmiller, investment, interview]
+tags:
+  - Druckenmiller
+  - investment
+  - interview
 ---
-
 # 与斯坦利·德鲁肯米勒的对话——完整节目
 
 **来源：** [https://www.youtube.com/watch?v=7njzXBzYnNI](https://www.youtube.com/watch?v=7njzXBzYnNI)

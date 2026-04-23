@@ -1,11 +1,13 @@
 ---
 title: 2018 Alexander Hamilton Awards ｜ Stanley Druckenmiller and Ambassador Nikki Haley
 source: https://www.youtube.com/watch?v=IwmSxcR8RTI
-date: 2018-05-22
+date: 2018-05-03
 language: en
-tags: [Druckenmiller, investment, interview]
+tags:
+  - Druckenmiller
+  - investment
+  - interview
 ---
-
 # 2018 Alexander Hamilton Awards ｜ Stanley Druckenmiller and Ambassador Nikki Haley
 
 **Source:** [https://www.youtube.com/watch?v=IwmSxcR8RTI](https://www.youtube.com/watch?v=IwmSxcR8RTI)

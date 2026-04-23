@@ -1,11 +1,13 @@
 ---
 title: 2018亚历山大·汉密顿奖 | 斯坦利·德鲁肯米勒与大使尼基·黑利
 source: https://www.youtube.com/watch?v=IwmSxcR8RTI
-date: 2018-05-22
+date: 2018-05-03
 language: zh
-tags: [Druckenmiller, investment, interview]
+tags:
+  - Druckenmiller
+  - investment
+  - interview
 ---
-
 # 2018亚历山大·汉密顿奖 | 斯坦利·德鲁肯米勒与大使尼基·黑利
 
 **来源：** [https://www.youtube.com/watch?v=IwmSxcR8RTI](https://www.youtube.com/watch?v=IwmSxcR8RTI)

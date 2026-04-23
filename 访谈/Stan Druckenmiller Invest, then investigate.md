@@ -3,9 +3,11 @@ title: 斯坦·德鲁肯米勒：先投资，再调查
 source: https://www.youtube.com/watch?v=z_pk4eBDaLA
 date: 2026-01-30
 language: zh
-tags: [Druckenmiller, investment, interview]
+tags: 
+  - Druckenmiller 
+  - investment 
+  - interview
 ---
-
 # 斯坦·德鲁肯米勒：先投资，再调查
 
 **来源：**[https://www.youtube.com/watch?v=z_pk4eBDaLA](https://www.youtube.com/watch?v=z_pk4eBDaLA)
