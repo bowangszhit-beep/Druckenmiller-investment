@@ -10,10 +10,7 @@ tags:
 ---
 # 与斯坦利·德鲁肯米勒的对话——完整节目
 
-**来源：** [https://www.youtube.com/watch?v=7njzXBzYnNI](https://www.youtube.com/watch?v=7njzXBzYnNI)
-
 ---
-
 ## 访谈记录
 
 【音乐】

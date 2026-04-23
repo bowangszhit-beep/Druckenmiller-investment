@@ -10,10 +10,7 @@ tags:
 ---
 # 2018 Alexander Hamilton Awards ｜ Stanley Druckenmiller and Ambassador Nikki Haley
 
-**Source:** [https://www.youtube.com/watch?v=IwmSxcR8RTI](https://www.youtube.com/watch?v=IwmSxcR8RTI)
-
 ---
-
 ## Transcript
 
 **Host:** I want to welcome you to the 18th annual Alexander Hamilton Awards dinner. To start the program tonight, it is my distinct pleasure to welcome to the podium the Chairman of the Manhattan Institute, Paul Singer.

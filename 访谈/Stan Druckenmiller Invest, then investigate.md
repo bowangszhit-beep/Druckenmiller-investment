@@ -10,9 +10,7 @@ tags:
 ---
 # 斯坦·德鲁肯米勒：先投资，再调查
 
-**来源：**[https://www.youtube.com/watch?v=z_pk4eBDaLA](https://www.youtube.com/watch?v=z_pk4eBDaLA)
-**日期：**2026-01-30
-
+---
 ## 访谈记录
 
 **斯坦·德鲁肯米勒**：我认为逆向主义被高估了。但当我有极度信念而别人都不相信时，这反而给了我更多的信念。

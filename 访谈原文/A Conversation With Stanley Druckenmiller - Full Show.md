@@ -8,13 +8,9 @@ tags:
   - investment
   - interview
 ---
-
 # A Conversation With Stanley Druckenmiller - Full Show
 
-**Source:** [https://www.youtube.com/watch?v=7njzXBzYnNI](https://www.youtube.com/watch?v=7njzXBzYnNI)
-
 ---
-
 ## Transcript
 
 [Music]
