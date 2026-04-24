@@ -1,5 +1,5 @@
 ---
-title: Billionaire Investor Stan Druckenmiller 2018 Full Interview
+title: Billionaire Investor Stan Druckenmiller Full Interview
 source: https://www.youtube.com/watch?v=YPP-0pY_8iY
 date: 2018-12-17
 language: en
@@ -8,7 +8,7 @@ tags:
   - investment
   - interview
 ---
-# Billionaire Investor Stan Druckenmiller 2018 Full Interview
+# Billionaire Investor Stan Druckenmiller Full Interview
 
 ---
 ## Transcript
