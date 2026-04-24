@@ -1,5 +1,5 @@
 ---
-title: A Conversation With Stanley Druckenmiller - Full Show
+title: A Conversation With Stanley Druckenmiller
 source: https://www.youtube.com/watch?v=7njzXBzYnNI
 date: 2020-01-03
 language: en
@@ -8,7 +8,7 @@ tags:
   - investment
   - interview
 ---
-# A Conversation With Stanley Druckenmiller - Full Show
+# A Conversation With Stanley Druckenmiller
 
 ---
 ## Transcript
