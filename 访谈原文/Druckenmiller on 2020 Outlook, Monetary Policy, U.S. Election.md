@@ -11,7 +11,6 @@ tags:
 # Druckenmiller on 2020 Outlook, Monetary Policy, U.S. Election
 
 ---
-
 ## Transcript
 
 **Eric:** Stan, how do you feel going into 2020 about the market?
