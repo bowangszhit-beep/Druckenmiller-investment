@@ -1,7 +1,7 @@
 ---
 title: CNBC 采访：斯坦·德鲁肯米勒谈美联储政策
 source: https://www.youtube.com/watch?v=aviToCACiNA
-date: 2015-11-06
+date: 2015-11-04
 language: zh
 tags:
   - Druckenmiller

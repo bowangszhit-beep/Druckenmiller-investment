@@ -1,7 +1,7 @@
 ---
 title: "CNBC Interview: Stan Druckenmiller on Fed Policy"
 source: https://www.youtube.com/watch?v=aviToCACiNA
-date: 2015-11-06
+date: 2015-11-04
 language: en
 tags:
   - Druckenmiller
