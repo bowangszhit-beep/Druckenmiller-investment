@@ -3,6 +3,7 @@ title: Druckenmiller on How AI is Dominating His Long Portfolio
 source: https://www.youtube.com/watch?v=NERglanBMIk
 date: 2023-06-08
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

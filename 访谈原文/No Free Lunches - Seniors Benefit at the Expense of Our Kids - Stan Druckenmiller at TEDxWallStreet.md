@@ -3,6 +3,7 @@ title: No Free Lunches - Seniors Benefit at the Expense of Our Kids - Stan Druck
 source: https://www.youtube.com/watch?v=DXAEw8psMuQ
 date: 2013-11-26
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - entitlements

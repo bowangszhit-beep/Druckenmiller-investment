@@ -3,6 +3,7 @@ title: Stanley Druckenmiller & Paul Tudor Jones Interview - Robin Hood Conferenc
 source: https://www.youtube.com/watch?v=S_x0n5BS1Pw
 date: 2016-11-17
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - interview

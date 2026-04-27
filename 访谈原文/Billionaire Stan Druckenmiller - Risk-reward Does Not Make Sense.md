@@ -3,6 +3,7 @@ title: 'Billionaire Stan Druckenmiller: Risk-reward Does Not Make Sense'
 source: https://www.youtube.com/watch?v=7TYzjM-ATyU
 date: 2015-05-25
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

@@ -3,6 +3,7 @@ title: Druckenmiller on 2020 Outlook, Monetary Policy, U.S. Election
 source: https://www.youtube.com/watch?v=Cs-0aC9Rd8g
 date: 2019-12-18
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

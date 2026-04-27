@@ -3,6 +3,7 @@ title: Stanley Druckenmiller Interview - The Economic Club of New York
 source: https://www.youtube.com/watch?v=r7kMSqgruOY
 date: 2019-06-03
 language: en
+original_transcript: yes
 tags:
   - Druckenmiller
   - investment

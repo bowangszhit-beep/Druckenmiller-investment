@@ -3,6 +3,7 @@ title: Stanley Druckenmiller 2021 Keynote - USC Marshall
 source: https://www.youtube.com/watch?v=rq2lGZyW2yA
 date: 2021-05-13
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - interview

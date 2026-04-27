@@ -3,6 +3,7 @@ title: Billionaire hedge fund manager Stanley Druckenmiller's full CNBC appearan
 source: https://www.youtube.com/watch?v=XlgBS6ZB5gI
 date: 2019-06-07
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

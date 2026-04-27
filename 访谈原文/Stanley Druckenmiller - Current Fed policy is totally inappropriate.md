@@ -3,6 +3,7 @@ title: Stanley Druckenmiller - Current Fed Policy Is Totally Inappropriate
 source: https://www.youtube.com/watch?v=ScAeHsXIUqI
 date: 2021-05-11
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

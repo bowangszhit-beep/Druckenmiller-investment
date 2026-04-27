@@ -3,6 +3,7 @@ title: Stan Druckenmiller - Annual investment conference 2023 - Norges Bank Inve
 source: https://www.youtube.com/watch?v=dXxWajc-tgI
 date: 2023-04-24
 language: en
+original_transcript: yes
 tags:
   - Druckenmiller
   - investment

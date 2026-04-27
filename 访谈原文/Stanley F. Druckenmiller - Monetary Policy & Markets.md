@@ -3,6 +3,7 @@ title: Stanley F. Druckenmiller — Monetary Policy & Markets
 source: https://www.youtube.com/watch?v=G-MlrpoMig0
 date: 2018-09-06
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - interview

@@ -3,6 +3,7 @@ title: Stanley Druckenmiller talks about if we're in a tech bubble, what makes a
 source: https://www.youtube.com/watch?v=IwmSxcR8RTI
 date: 2021-05-28
 language: en
+original_transcript: yes
 tags:
   - Druckenmiller
   - investment

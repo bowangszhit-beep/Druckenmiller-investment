@@ -3,6 +3,7 @@ title: 'Stan Druckenmiller: Invest, Then Investigate'
 source: https://www.youtube.com/watch?v=z_pk4eBDaLA
 date: 2026-01-30
 language: en
+original_transcript: yes
 tags:
   - Druckenmiller
   - investment

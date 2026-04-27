@@ -3,6 +3,7 @@ title: Geoffrey Canada & Stan Druckenmiller - Generational Equity - Full Intervi
 source: https://www.youtube.com/watch?v=X0Mcw5iGvcI
 date: 2013-10-27
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - education

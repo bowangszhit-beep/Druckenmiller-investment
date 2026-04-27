@@ -3,6 +3,7 @@ title: Legendary Investor Stanley Druckenmiller On The Stock Market, Tax Reform,
 source: https://www.youtube.com/watch?v=DWDgJ_hNFSE
 date: 2017-12-14
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

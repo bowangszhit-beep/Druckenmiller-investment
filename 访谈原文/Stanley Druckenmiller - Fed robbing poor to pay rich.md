@@ -3,6 +3,7 @@ title: Stanley Druckenmiller - Fed robbing poor to pay rich
 source: https://www.youtube.com/watch?v=PdT8fWSgcl4
 date: 2013-09-19
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - investment

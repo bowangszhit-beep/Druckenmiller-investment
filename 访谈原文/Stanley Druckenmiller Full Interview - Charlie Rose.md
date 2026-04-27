@@ -3,6 +3,7 @@ title: Stanley Druckenmiller Full Interview - Charlie Rose
 source: https://www.youtube.com/watch?v=ELlmZ7WAMgU
 date: 2013-12-03
 language: en
+original_transcript: no
 tags:
   - Druckenmiller
   - interview

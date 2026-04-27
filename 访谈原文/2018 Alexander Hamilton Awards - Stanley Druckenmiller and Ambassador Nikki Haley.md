@@ -3,6 +3,7 @@ title: 2018 Alexander Hamilton Awards - Stanley Druckenmiller and Ambassador Nik
 source: https://www.youtube.com/watch?v=IwmSxcR8RTI
 date: 2018-05-03
 language: en
+original_transcript: yes
 tags:
   - Druckenmiller
   - investment
