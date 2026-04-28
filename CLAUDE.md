@@ -12,14 +12,15 @@ This is a research knowledge repository collecting Stanley Druckenmiller's inves
 
 ## Directory Structure
 
-- `访谈原文/` — Main interviews directory containing Markdown transcripts and the conversion script
-- `访谈/` — Markdown transcripts of interviews translated into Chinese
+- `interviews/` — Main interviews directory containing Markdown transcripts and the conversion script
+- `interviews_translation/` — Markdown transcripts of interviews translated into Chinese
+- `scripts/` - Relevant python scripts to perform operations on the knowledge base
 
 ## Content Pipeline
 
 New transcripts are added via:
 1. Download YouTube auto-generated subtitles as `.en.vtt`. The filename must follow the pattern `Title [VideoID].en.vtt`.
-2. Run the conversion script:
+2. Run the conversion script in `scripts/`:
 ```
    && python convert_vtt_to_md.py
 ```
@@ -42,7 +43,7 @@ Each generated Markdown file has the structure:
 
 ## Manual Cleanup: VTT → Canonical Format
 
-Auto-generated subtitles often lack punctuation, paragraph breaks, and speaker labels. After running the conversion script, manually clean up each file to match the canonical format used in `访谈原文/`:
+Auto-generated subtitles often lack punctuation, paragraph breaks, and speaker labels. After running the conversion script, manually clean up each file to match the canonical format used in `interviews/`:
 
 ### 1. Add YAML Frontmatter
 
@@ -54,6 +55,7 @@ title: {Title}
 source: {youtube_url}
 date: YYYY-MM-DD
 language: en
+original_transcript: {yes | no}
 tags:
   - Druckenmiller
   - {topic}
@@ -81,8 +83,3 @@ VTT auto-captions are unpunctuated. Restore:
 ### 4. Break into Paragraphs
 
 Split the wall of text into logical paragraphs — one topic or argument per paragraph. Each speaker turn is a new paragraph. Long monologues should be broken at natural topic transitions.
-
-### 5. Add Closing Markers
-
-For speeches, add `*[Applause]*` at the end where appropriate.
-
