@@ -1,8 +1,7 @@
 ---
-title: Druckenmiller 访谈索引
-date: 2026-04-28
+title: Druckenmiller Interviews Index
 ---
-# Druckenmiller 访谈索引
+# Druckenmiller Interviews Index
 
 共 31 篇，按日期排列。
 
