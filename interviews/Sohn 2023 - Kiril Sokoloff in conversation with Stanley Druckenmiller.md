@@ -1,5 +1,5 @@
 ---
-title: Sohn 2023 ｜ Kiril Sokoloff in conversation with Stanley Druckenmiller
+title: Sohn 2023 - Kiril Sokoloff in conversation with Stanley Druckenmiller
 source: https://www.youtube.com/watch?v=bMAm2S1M_IU
 date: 2023-05-09
 language: en
@@ -9,7 +9,7 @@ tags:
   - interview
   - investment
 ---
-# Sohn 2023 ｜ Kiril Sokoloff in conversation with Stanley Druckenmiller
+# Sohn 2023 - Kiril Sokoloff in conversation with Stanley Druckenmiller
 
 ---
 ## Transcript

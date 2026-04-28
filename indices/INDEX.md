@@ -62,7 +62,7 @@ title: Druckenmiller Interviews Index
 
 - 2023-04-24 — [Stan Druckenmiller - Annual investment conference 2023 - Norges Bank Investment Management](Stan Druckenmiller - Annual investment conference 2023 - Norges Bank Investment Management.md)
 - 2023-05-01 — [Stanley Druckenmiller 2023 Keynote - USC Marshall](Stanley Druckenmiller 2023 Keynote - USC Marshall.md)
-- 2023-05-09 — [Sohn 2023 ｜ Kiril Sokoloff in conversation with Stanley Druckenmiller](Sohn 2023 - Kiril Sokoloff in conversation with Stanley Druckenmiller.md)
+- 2023-05-09 — [Sohn 2023 - Kiril Sokoloff in conversation with Stanley Druckenmiller](Sohn 2023 - Kiril Sokoloff in conversation with Stanley Druckenmiller.md)
 - 2023-06-08 — [Druckenmiller on How AI is Dominating His Long Portfolio](Druckenmiller on How AI is Dominating His Long Portfolio.md)
 
 ## 2024
