@@ -14,7 +14,6 @@ This is a research knowledge repository collecting Stanley Druckenmiller's inves
 
 - `访谈原文/` — Main interviews directory containing Markdown transcripts and the conversion script
 - `访谈/` — Markdown transcripts of interviews translated into Chinese
-- `他人分析总结/` — Placeholder directory for third-party analysis summaries (currently empty)
 
 ## Content Pipeline
 

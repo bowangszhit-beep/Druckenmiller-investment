@@ -5,8 +5,8 @@ import os
 import re
 import glob
 
-SUBTITLES_DIR = os.path.join(os.path.dirname(__file__), "subtitles")
-OUTPUT_DIR = os.path.dirname(__file__)
+SUBTITLES_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "访谈原文")
 
 # Map video ID to YouTube URL
 def parse_vtt(vtt_path):
