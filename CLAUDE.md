@@ -54,7 +54,7 @@ Replace the `# Title` + `**Source:**` header block with:
 ---
 title: {Title}
 source: {youtube_url}
-date: YYYY-MM-DD
+date: {YYYY-MM-DD | YYYY}
 language: en
 original_transcript: {yes | no}
 tags:
