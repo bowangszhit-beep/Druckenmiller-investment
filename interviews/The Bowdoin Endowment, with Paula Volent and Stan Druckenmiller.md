@@ -1,5 +1,5 @@
 ---
-title: The Bowdoin Endowment, with Paula Volent and Stan Druckenmiller '75, H'07
+title: The Bowdoin Endowment, with Paula Volent and Stan Druckenmiller
 source: https://www.youtube.com/watch?v=03o-2ZpCkgc
 date: 2021-06-24
 language: en

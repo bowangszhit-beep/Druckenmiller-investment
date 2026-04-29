@@ -1,5 +1,5 @@
 ---
-title: Stanley Druckenmiller — Lost Tree Club
+title: Stanley Druckenmiller - Lost Tree Club
 source: https://gist.github.com/timhwang21/e6a2b24e064182dd9099ad00e4f4f9a6
 date: 2015-01-18
 language: en

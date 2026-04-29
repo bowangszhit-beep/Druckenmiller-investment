@@ -1,5 +1,5 @@
 ---
-title: 'Billionaire Stan Druckenmiller: Risk-reward Does Not Make Sense'
+title: Billionaire Stan Druckenmiller - Risk-reward Does Not Make Sense
 source: https://www.youtube.com/watch?v=7TYzjM-ATyU
 date: 2015-05-25
 language: en
@@ -9,7 +9,7 @@ tags:
   - investment
   - interview
 ---
-# Billionaire Stan Druckenmiller: Risk-reward Does Not Make Sense
+# Billionaire Stan Druckenmiller - Risk-reward Does Not Make Sense
 
 ---
 ## Transcript
