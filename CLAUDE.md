@@ -15,6 +15,7 @@ This is a research knowledge repository collecting Stanley Druckenmiller's inves
 - `interviews/` — Main interviews directory containing Markdown transcripts and the conversion script
 - `interviews_translation/` — Markdown transcripts of interviews translated into Chinese
 - `scripts/` - Relevant python scripts to perform operations on the knowledge base
+- `indices` - Indices guiding the structure of the knowledge base 
 
 ## Content Pipeline
 
