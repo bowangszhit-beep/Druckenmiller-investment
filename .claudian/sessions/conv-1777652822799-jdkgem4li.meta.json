@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777652822799-jdkgem4li",
+  "providerId": "claude",
+  "title": "Analyze Druckenmiller's entry timing philosophy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777652822801,
+  "updatedAt": 1777652848935,
+  "lastResponseAt": 1777652848935,
+  "sessionId": "7e91b2db-d0ee-4c0c-aab3-6ee223639b9b",
+  "providerState": {
+    "providerSessionId": "7e91b2db-d0ee-4c0c-aab3-6ee223639b9b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 32638,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 32646,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}
