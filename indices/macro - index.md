@@ -3,7 +3,7 @@ title: Druckenmiller Macro Index
 ---
 # Druckenmiller Macro Index
 
-共 29 篇，按主题分类。
+共 30 篇，按主题分类。
 
 ## 货币政策与央行
 
@@ -46,6 +46,7 @@ title: Druckenmiller Macro Index
 - [[V型复苏的虚幻]]
 - [[失落的十年]]
 - [[危机时相关性失效]]
+- [[信仰扩散周期]]
 
 ## 科技与创新
 

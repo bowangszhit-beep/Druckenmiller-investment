@@ -3,7 +3,7 @@ title: Druckenmiller Frameworks Index
 ---
 # Druckenmiller Frameworks Index
 
-共 21 篇，按主题分类。
+共 25 篇，按主题分类。
 
 ## 风险管理与仓位管理
 
@@ -36,6 +36,8 @@ title: Druckenmiller Frameworks Index
 ## 投资组合构建
 
 - [[集中持仓]]
+- [[三层楼仓位与三层止损]]
+- [[前期加仓约束]]
 - [[宏观矩阵式布局]]
 - [[多资产类别切换]]
 
@@ -46,3 +48,10 @@ title: Druckenmiller Frameworks Index
 ## 基金经理选择
 
 - [[选基金经理的标准]]
+
+## 中文社区二次解读
+
+- [[三层楼仓位与三层止损]]
+- [[投资变化而非企业]]
+- [[前期加仓约束]]
+- [[模式识别双向性]]
